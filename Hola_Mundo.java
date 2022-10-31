@@ -5,8 +5,8 @@ public class Hola_Mundo {
         //otro mensaje
         System.out.println("Formación incial Git");
         //calculo de a y b
-        a=2; b=6;
-       System.out.println("El total de a +b es: "+a+b);
+        int a=2, b=6;
+       System.out.println("El total de a +b es: "+(a+b));
 
     }
 }
